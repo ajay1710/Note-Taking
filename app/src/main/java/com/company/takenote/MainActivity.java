@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("title", note.getTitle());
                 intent.putExtra("description", note.getDescription());
                 //activityResultLauncher
-                activityResultLauncherForAddNote.launch(intent);
+                activityResultLauncherForUpdateNote.launch(intent);
 
             }
         });
