@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340155262527",
+    "project_id": "take-note-b3af1",
+    "storage_bucket": "take-note-b3af1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340155262527:android:6c0a3e99b58d2cb2fc3a8a",
+        "android_client_info": {
+          "package_name": "com.company.takenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340155262527-e8c8eh4q8oqo0rhj42qdihiv6dpqp78u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.takenote",
+            "certificate_hash": "274c458b3ad1d05b7b7ca43c8929ec6a45ccdcaf"
+          }
+        },
+        {
+          "client_id": "340155262527-n1vvdfnmh8linladj0e8d17b42a8sndb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFflK9VaLtrFEpkT3GdhQz8L9oH9uv8Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340155262527-n1vvdfnmh8linladj0e8d17b42a8sndb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

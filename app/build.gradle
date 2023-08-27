@@ -1,5 +1,6 @@
 plugins {
     id 'com.android.application'
+    id 'com.google.gms.google-services'
 }
 
 android {
@@ -42,6 +43,7 @@ dependencies {
 
 dependencies {
 
+    implementation 'com.google.firebase:firebase-auth-ktx:22.1.1'
     implementation 'androidx.appcompat:appcompat:1.6.1'
     def room_version = "2.5.2"
     def lifecycle_version = "2.6.1"
